@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 netlify.toml
+vercel.json
 
 # Editor directories and files
 .vscode/*
