@@ -3,7 +3,7 @@
 A modern, feature-rich Learning Management System built with **React** and **Firebase**, designed to provide seamless educational experiences for students, instructors, and admins.
 
 ---
-## Live [OLP-LMS](https://olp-lms.vercel.app/login)
+## 🌐Live [OLP-LMS](https://olp-lms.vercel.app/login)
 ---
 ## 📋 Table of Contents
 
